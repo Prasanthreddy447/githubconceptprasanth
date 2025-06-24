@@ -28,11 +28,43 @@ public class GITHUB {
       
       we will get push specfications    then we give master  add spec  finish
       
-      
-      
-      
-      
-      
+      */
+	
+	/*
+	 now another tester comes to picture
+	 now lead will give git repo url and ask here clone it and make changes
+	 
+	 now what will tester do?
+	 in eclipse search for git repo
+	 then clone the repo by giving the manger given git hub repo url give username and passowrd finish
+	 now in git repo (local git repo ) code will be cloned
+	 
+	 now import to local eclipse
+	 
+	 go to file --> import -->git--> project from git--> existing git
+	 
+	 now project will in local eclipse
+	 
+	 lets change anything or update the code
+	 
+	 so after the updated code right click on project --> team-->add to index(directory to staging area code has moved)
+	 
+	  before commiting testers should create the branch why we should create branch ?
+	  
+	  we will push our ode to branch and lead will check the code if it is okay then mergse the code to the master branch
+	  
+	   how to create branch, go to git repo in eclipse branch --> switch to--> new branch--> PR branch
+	   
+	   team--> commit -->update comment and commit
+	   
+	   now goto created branch and thenm push the code
+	   
+	   manger should give permission
+	   settings --->collabrator --> add people
+	 
+	 
+	 
+	 
 	 */
 
 }
