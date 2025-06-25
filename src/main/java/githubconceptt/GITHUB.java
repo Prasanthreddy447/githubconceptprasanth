@@ -57,10 +57,20 @@ public class GITHUB {
 	   
 	   team--> commit -->update comment and commit
 	   
-	   now goto created branch and thenm push the code
+	   now goto created branch and then push the code give as branch u want push
 	   
 	   manger should give permission
 	   settings --->collabrator --> add people
+	   
+	   then go to branch in tester git repo and then goto pull request then their we will have commited code 
+	   and start the conversation and ask lead to check the code 
+	   
+	   and then go to leads git repo go to testers branch and check the code and required comment 
+	   
+	   merge the code to master
+	   
+	   
+	   
 	 
 	 
 	 
