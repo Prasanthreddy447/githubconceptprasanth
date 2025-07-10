@@ -9,18 +9,18 @@ public class GITHUB {
 	 working directory-------->staging area---------------->local repo(.git) --------->github
 	                                                                          fetch
 	                                                                          
-	  first create project in eclipse 
+	  first create project in eclipse (project is ready to push into github)
 	  in eclipse only we will have git in search
-	  then right click on project --> team--> share project --> create new repositary i.e local git repostiry in eclipse  
-	    select box create repo --> create repo(.git) -->finish  so now in git repo project added
+	  then right click on project --> team--> share project --> create new repositary i.e local git repostiry in eclipse (no code here) 
+	  select box create repo --> create repo(.git) -->finish  so now in git repo project added
 	    
       right click on project and team--> add to index(this will go to staging)  
       
-      now again right click on project team-->commit and add comment then it will change from staging to local git
+      now again right click on project team-->commit and add comment then it will change from staging to local git(local git repo will have code)
       
       now after commit in local git repo under  branches master will come
       
-      now goto git hbub and create repoosity and copy the url
+      now goto git hub and create repoosity and copy the url
       
       right click on project team--> remote-->push the we will get desitination repo their we will add github created url
       
@@ -36,7 +36,7 @@ public class GITHUB {
 	 
 	 now what will tester do?
 	 in eclipse search for git repo
-	 then clone the repo by giving the manger given git hub repo url give username and passowrd finish
+	 then clone the repo by given by  the manger given git hub repo url give username and passowrd finish
 	 now in git repo (local git repo ) code will be cloned
 	 
 	 now import to local eclipse
