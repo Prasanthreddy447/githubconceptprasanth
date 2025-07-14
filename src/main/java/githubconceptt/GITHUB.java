@@ -69,11 +69,7 @@ public class GITHUB {
 	   
 	   merge the code to master
 	   
-	   
-	   
-	 
-	 
-	 
+	 git
 	 
 	 */
 
